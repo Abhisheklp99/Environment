@@ -1,0 +1,20 @@
+/* heading */
+.head1{
+    color: rgba(57, 142, 33, 0.711);
+}
+.top1{
+    background-color: #eef5eb;
+    margin-bottom: 10px;
+}
+
+#middle_1{
+    margin-bottom: 20px;
+}
+
+#middle_2{
+    margin: 20px auto 10px auto;
+}
+
+#middle_3{
+    margin:20px auto 10px auto;
+}

@@ -1,0 +1,83 @@
+/*  */
+body{
+    margin: 0;  
+    font-family: "Merriweather", serif;
+}
+/* buttons */
+.top-button{
+    background-color:  #caeabc;
+}
+
+/* Top container */
+.top{
+    position: relative;
+    background-color: #eef5eb;
+    margin-top: 5px;
+    text-align: center;
+}
+.top > img{
+  width: 100%;
+    right: 10px;
+
+}
+
+/* Middle */
+#middle{
+    background-color:#eef5eb ;
+    margin-bottom: 20px;
+}
+
+/* page3 */
+
+
+/*  */
+
+/*common  */
+body > div.top > div > h1{
+    color:rgba(57, 142, 33, 0.711);
+    font-size: 5.1rem;
+    margin: 25px auto 0 auto;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+
+}
+body > div.top > div >h2{
+    color:rgba(46, 74, 38, 0.711);
+    font-size:3.8rem;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Serif', serif;
+    font-family: 'Roboto Slab', serif;
+}
+.mid_h1{
+    color:rgba(57, 142, 33, 0.711);
+}
+.p2{
+    color:rgba(33, 38, 32, 0.878) ;
+}
+.sp1{
+    color: rgb(123, 153, 113);
+    font: weight 20px;
+    font-weight:bold;
+}
+
+
+/* about me section*/
+.hang{
+    margin: 20px auto 15px auto;
+    background-color:#eef5eb ;
+}
+
+
+/* responsive */
+@media(min-width:319px)and (max-width:480px){
+    body > div.top > div > h2{
+        font-size: 2rem;
+    }
+    body > div.top > div > h1{
+        font-size: 3rem;
+    }
+
+   
+}
+
+
